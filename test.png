@@ -1,0 +1,1 @@
+Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission &#39;storage.objects.get&#39; denied on resource (or it may not exist).
